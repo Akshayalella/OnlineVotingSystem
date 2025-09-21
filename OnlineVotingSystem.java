@@ -254,9 +254,10 @@ public class VotingSystemAWT9 extends Frame implements ActionListener {
     }
 
     public static void main(String[] args) {
-        VotingSystemAWT9 votingSystem = new VotingSystemAWT9();
+        OnlineVotingSystem votingSystem = new OnlineVotingSystem();
         votingSystem.setVisible(true);
 		
     }
 
 }
+
