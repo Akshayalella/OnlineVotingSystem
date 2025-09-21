@@ -31,7 +31,7 @@ public class VotingSystemAWT9 extends Frame implements ActionListener {
 		 
     }
 
-    public VotingSystemAWT9()
+    public OnlineVotingSystem()
 	{
         setTitle("Voting System");
         setSize(900, 600);
@@ -258,4 +258,5 @@ public class VotingSystemAWT9 extends Frame implements ActionListener {
         votingSystem.setVisible(true);
 		
     }
+
 }
